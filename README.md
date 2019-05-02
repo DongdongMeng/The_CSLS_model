@@ -18,3 +18,5 @@ Specifically, we use the dynamic map showing the evolution of our CSLS model whi
 ![image](https://github.com/DongdongMeng/The_CSLS_model/blob/master/Sample%202.gif)
 ![image](https://github.com/DongdongMeng/The_CSLS_model/blob/master/Sample%203.gif)
 ![image](https://github.com/DongdongMeng/The_CSLS_model/blob/master/Sample%204.gif)
+
+We acknowledge the authors for the code released at ''http://www.imagecomputing.org/~cmli/'' and ''http://kaihuazhang.net/'', which potentially provide effective means for green algae detection in remote sensing images.
