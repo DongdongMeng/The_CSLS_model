@@ -1,12 +1,24 @@
 # The_CSLS_model
 
-This is a context-sensitive level set model for green algae detection.
+This paper has been accepted to Ecological Indicators.
 
-Requirements:
+If you use this code for your reasearch, please cite:
 
-Matlab R2014a 
+@article{CSLS2023,
+title = {Macroalgae monitoring from satellite optical images using Context-sensitive level set (CSLS) model},
+journal = {Ecological Indicators},
+volume = {149},
+pages = {110160},
+year = {2023},
+issn = {1470-160X},
+doi = {https://doi.org/10.1016/j.ecolind.2023.110160}
+}
 
-Test the model:
+## Requirements:
+
+Matlab R2014a
+
+## Test the model:
 
 There is one investigated green algae image named demo.tif. You can run the main function The_CSLS_model.m for test.
 
