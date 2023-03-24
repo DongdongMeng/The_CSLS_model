@@ -20,7 +20,7 @@ author = {Xinliang Pan and Dongdong Meng and Peng Ren and Yanfang Xiao and Keuny
 }
 ```
 
-## Requirements:
+## Requirement
 
 Matlab needs to be installed before running the scripts (Version >= R2014a)
 
@@ -30,7 +30,7 @@ Matlab needs to be installed before running the scripts (Version >= R2014a)
 This is a context-sensitive level set model for green algae detection.
 
 
-## Test the model:
+## Inference
 
 There is one investigated green algae image named demo.tif. You can run the main function The_CSLS_model.m for test.
 
