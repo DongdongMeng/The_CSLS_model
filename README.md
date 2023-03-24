@@ -1,5 +1,9 @@
 # The_CSLS_model
 
+## Introduction
+
+This is a context-sensitive level set model for green algae detection.
+
 ## Paper
 
 This paper has been accepted to Ecological Indicators.
@@ -23,12 +27,6 @@ author = {Xinliang Pan and Dongdong Meng and Peng Ren and Yanfang Xiao and Keuny
 ## Requirement
 
 Matlab needs to be installed before running the scripts (Version >= R2014a)
-
-
-## Introduction
-
-This is a context-sensitive level set model for green algae detection.
-
 
 ## Inference
 
