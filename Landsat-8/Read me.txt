@@ -1,0 +1,18 @@
+使用说明：
+1.编程环境：MATLAB2014a.
+请将主函数The_CSLS_model.m及子函数CSLS.m设置在同一路径下；
+2.操作流程：
+%Warning: CSLS.m文件请勿动
+（1）打开The_CSLS_model.m文件，将imread函数所读路径换为待测样本路径
+     Warning：待测样本应为灰度图。
+（2）等待测试结果即可。
+
+%可调参量如下：
+Iteration_number：建议20及以上
+c：可不调
+grmma:可不调
+N:二类分割情况下请勿动
+initialLSF(:,:):测试情况不佳可调
+k:[0,1]
+timestep_T：[0,1]
+timestep_t: [0,1]
