@@ -28,7 +28,11 @@ author = {Xinliang Pan and Dongdong Meng and Peng Ren and Yanfang Xiao and Keuny
 
 Matlab needs to be installed before running the scripts (Version >= R2014a)
 
-## Inference
+## Run
+
+This unsupervised detection method can be applied directly to the GF series data, Landsat-8 data, Aqua data without the need for labels. Specifically, you can go directly to the corresponding satellite data folder (GF-4, Landsat-8, Aqua) and replace the path of the main function The_CSLS_model.m with your folder path. 
+
+## Demo
 
 There is one investigated green algae image named demo.tif. You can run the main function The_CSLS_model.m for test.
 
