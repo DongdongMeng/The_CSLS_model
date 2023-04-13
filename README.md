@@ -48,7 +48,7 @@ In addition, you can also replace with your own data for testing. Note that the 
 
 * Iteration_number: 20 or more are recommended
 
-* k (Eq.14): Can be adjusted within the range of [0,1]
+* k (Eq.14): Can be adjusted within the range of [0,2]
 
 * timestep_t (Eq.25): Can be adjusted within the range of [0,1]
 
