@@ -1,4 +1,4 @@
-# The_CSLS_model
+# Macroalgae monitoring from satellite optical images using Context-sensitive level set (CSLS) model
 
 ## Introduction
 
