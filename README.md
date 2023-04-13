@@ -43,9 +43,13 @@ Specifically, we use the dynamic map showing the evolution of our CSLS model whi
 ## Run your own dataset
 
 This unsupervised detection method taking NDVI as input can be applied directly to the GF series data, Landsat-8 data, Aqua data without the need for labels. you can go directly to the corresponding satellite data folder (GF-4, Landsat-8, Aqua) and run the main function The_CSLS_model.m for test. Note that the The_CSLS_model.m and the CSLS.m should be in the same path. In addition, you can also replace with your own data for testing. It is important to note that the test data needs to be grayscale. We also provide some optimization parameter options that can be set:
+
 Iteration_number: 20 or more are recommended
+
 k (Eq.14): Can be adjusted within the range of [0,1]
+
 timestep_t (Eq.25): Can be adjusted within the range of [0,1]
+
 timestep_T (Eq.22): Can be adjusted within the range of [0,1]
 
 
